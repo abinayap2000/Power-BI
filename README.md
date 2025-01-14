@@ -6,5 +6,5 @@
   
 **HR Analytics Dashboard Screenshot**
 
+![Screenshot (47)](https://github.com/user-attachments/assets/1cf0a181-800e-4e20-a6cb-bff2326ae35e)
 
-![Screenshot (47)](https://github.com/user-attachments/assets/68f8bcac-ec58-414c-b6cd-a70e07e99b87)
